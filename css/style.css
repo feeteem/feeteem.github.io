@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	background-color: #6699ff;
+}
+
+.imag_cap {
+	padding: 50px;
+	display: block;
+    margin: auto;
+}
